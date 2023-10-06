@@ -1,4 +1,4 @@
-# RULES: DSPS 2019 midterm
+# RULES: DSPS 2023 midterm
 
 You are allowed to consult any resource except for live-interacting people (except the instructors)
 
